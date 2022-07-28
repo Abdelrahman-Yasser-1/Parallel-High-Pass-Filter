@@ -1,0 +1,7 @@
+﻿  Source.cpp
+E:\Collage Material\3rd year\2nd semester\PDF\High Performance Computing (HPC)\Project\HPC_Project\HPC_ProjectTemplate\Source.cpp(85,30): warning C4244: 'initializing': conversion from '__int64' to 'unsigned int', possible loss of data
+E:\Collage Material\3rd year\2nd semester\PDF\High Performance Computing (HPC)\Project\HPC_Project\HPC_ProjectTemplate\Source.cpp(275,66): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+E:\Collage Material\3rd year\2nd semester\PDF\High Performance Computing (HPC)\Project\HPC_Project\HPC_ProjectTemplate\Source.cpp(125,6): warning C4101: 'start_idx': unreferenced local variable
+E:\Collage Material\3rd year\2nd semester\PDF\High Performance Computing (HPC)\Project\HPC_Project\HPC_ProjectTemplate\Source.cpp(127,7): warning C4101: 'localResult': unreferenced local variable
+  Source.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  HPC_ProjectTemplate.vcxproj -> E:\Collage Material\3rd year\2nd semester\PDF\High Performance Computing (HPC)\Project\HPC_Project\Debug\HPC_ProjectTemplate.exe
